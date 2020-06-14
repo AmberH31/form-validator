@@ -1,7 +1,7 @@
 **# Form Validator**
 -
 Simple client side form validation. Check required, length, email and password match<br>
-[Click Here](http://example.net/)
+[Click Here](https://amberh31.github.io/form-validator/)
 
 **# Project Specifications**
 -
