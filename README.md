@@ -1,13 +1,13 @@
 **# Form Validator**
 -
-Simple client side form validation. Check required, length, email and password match<br>
-[Click Here](https://amberh31.github.io/form-validator/)
+Display movie choices and seats in a theater to select from in order to purchase tickets<br>
+[Click Here](https://amberh31.github.io/move-seat-booking/)
 
 **# Project Specifications**
 -
-- Create form UI
-- Show error messages under specific inputs 
-- checkRequired() to accept array of inputs
-- checkLength() to check min and max length
-- checkEmail() to validate email with regex
-- checkPasswordsMatch() to match confirm password
+- Display UI with movie select, screen, seats, legend & seat info
+- User can select a movie/price
+- User can select/deselect seats
+- User can not select occupied seats
+- Number of seats and price will update
+- Save seats, movie and price to local storage so that UI is still populated on refresh
