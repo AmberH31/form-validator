@@ -1,7 +1,7 @@
 **# Form Validator**
 -
 Display movie choices and seats in a theater to select from in order to purchase tickets<br>
-[Click Here](https://amberh31.github.io/move-seat-booking/)
+[Click Here](https://amberh31.github.io/form-validator/)
 
 **# Project Specifications**
 -
